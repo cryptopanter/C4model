@@ -5,6 +5,12 @@ The zoom-out perspective of the whole system in the biggest scale. Detail isn't 
 
 ![c4model-1st%20level.png](c4model-1st%20level.png)
 
+So in short, each shape demonstrates below meanings:
+![c4model-1st%20level-2.png](c4model-1st%20level-2.png)
+.
+.
+.                                                                                                                                                                                                                                                                                                                                                          
+
 **example:**
 This is an example System Context diagram for a fictional Internet Banking System. It shows the people who use it, and the other software systems that the Internet Banking System has a relationship with. Personal Customers of the bank use the Internet Banking System to view information about their bank accounts, and to make payments. The Internet Banking System itself uses the bank's existing Mainframe Banking System to do this, and uses the bank's existing E-mail System to send e-mails to customers.
 ![c4model-1st%20level-example.png](c4model-1st%20level-example.png)
