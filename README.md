@@ -36,7 +36,7 @@ This is an example Component diagram for a fictional Internet Banking System, sh
 ![c4model-3rd%20level-example.png](c4model-3rd%20level-example.png)
 
 ## 4- Forth level of visualization
-
+To zoom in to see the codes. This is an optional level of detail and is often available on-demand from tooling such as IDEs.
 
 This is an example (and partial) UML class diagram for a fictional Internet Banking System, showing the code elements (interfaces and classes) that make up the MainframeBankingSystemFacade component. It shows that the component is made up of a number of classes, with the implementation details directly reflecting the code.
 ![c4model-4th%20level-example.png](c4model-4th%20level-example.png)
