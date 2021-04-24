@@ -27,8 +27,11 @@ Both the Single-Page Application and Mobile App use a JSON/HTTPS API, which is p
 
 ## 3- Third level of visualisation
 You can zoom in more into level-2 containers/blocks. 
-shows how a container is made up of a number of "components".     
+shows how a container is made up of a number of "components"....Symbol diagrams below listed: 
+![c4model-3rd%20level.png](c4model-3rd%20level.png)
 
 **Example:**
 This is an example Component diagram for a fictional Internet Banking System, showing some (rather than all) of the components within the API Application. Here, there are three Spring MVC Rest Controllers providing access points for the JSON/HTTPS API, with each controller subsequently using other components to access data from the Database and Mainframe Banking System, or send e-mails.
+
+![c4model-3rd%20level-example.png](c4model-3rd%20level-example.png)
 
