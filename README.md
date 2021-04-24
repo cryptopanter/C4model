@@ -24,3 +24,11 @@ This is an example Container diagram for a fictional Internet Banking System. It
 Both the Single-Page Application and Mobile App use a JSON/HTTPS API, which is provided by another Java/Spring MVC application running on the server. The API Application gets user information from the Database (a relational database schema). The API Application also communicates with the existing Mainframe Banking System, using a proprietary XML/HTTPS interface, to get information about bank accounts or make transactions. The API Application also uses the existing E-mail System if it needs to send e-mails to customers.
 
 ![c4model-2nd%20level-example.png](c4model-2nd%20level-example.png)
+
+## 3- Third level of visualisation
+You can zoom in more into level-2 containers/blocks. 
+shows how a container is made up of a number of "components".     
+
+**Example:**
+This is an example Component diagram for a fictional Internet Banking System, showing some (rather than all) of the components within the API Application. Here, there are three Spring MVC Rest Controllers providing access points for the JSON/HTTPS API, with each controller subsequently using other components to access data from the Database and Mainframe Banking System, or send e-mails.
+
